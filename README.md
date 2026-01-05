@@ -1,4 +1,4 @@
-# Onyx April 2025 Data Challenge Healthcare Analysis
+# Healthcare Analysis
 
 ## Table of Contents
 
@@ -17,9 +17,7 @@ This project analyzes a synthetic healthcare dataset to identify patterns in med
 
 ## Data Source
 
-This dataset was provided by Onyx Data as part of their April 2025 Data DNA Challenge
-
-Download the dataset here [HealthCare Analysis Dataset]()
+Download the dataset here [HealthCare Analysis Dataset](https://github.com/AyeshaPerveen14/PowerBI-HealthCareOnyxData/blob/main/Healthcare%20Analysis%20Dataset.xlsx)
 
 ## Tools and Methodology
 
