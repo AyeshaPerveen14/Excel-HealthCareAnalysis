@@ -8,6 +8,7 @@
 * [Dashboard](#dashboard)
 * [Key Insights](#key-insights)
 * [Recommendations](#recommendations)
+* [Link to Vizualisation](#link-to-vizualisation)
 * [Conclusion](#conclusion)
 
 ## Project Overview
@@ -18,7 +19,7 @@ This project analyzes a synthetic healthcare dataset to identify patterns in med
 
 This dataset was provided by Onyx Data as part of their April 2025 Data DNA Challenge
 
-Download the dataset here [HealthCare Analysis Dataset]
+Download the dataset here [HealthCare Analysis Dataset]()
 
 ## Tools and Methodology
 
@@ -86,6 +87,10 @@ Download the dataset here [HealthCare Analysis Dataset]
 * Target resource allocation at top hospitals like Houston Methodist and Johns Hopkins to ensure service delivery can meet growing patient volume.
 * Review and audit Medicare billing practices, as it accounts for half of patient coverage and nearly half of total billing.
 * Standardize medication protocols for conditions showing high variance in prescription patterns.
+
+## Link to Vizualisation
+
+[Click Here for Complete Dashboard](https://github.com/AyeshaPerveen14/PowerBI-HealthCareOnyxData/blob/main/Healthcare%20Analysis%20Full%20Report.xlsx)
 
 ## Conclusion
 
